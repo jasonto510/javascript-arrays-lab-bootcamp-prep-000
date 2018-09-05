@@ -7,5 +7,23 @@ function destructivelyAppendKitten(name){
 
 function destructivelyPrependKitten(name){
   var kitten = [];
-  kitten.
+  kitten.push(name);
+  return kitten;
+}
+
+function destructivelyRemoveLastKitten(){
+  var kitten = [];
+  kitten.pop();
+  return kitten;
+}
+
+function destructivelyRemoveFirstKitten(){
+  var kitten = [];
+  kitten.unshift();
+  return kitten;
+}
+
+function appendKitten(name){
+  var kitten = [];
+  kitten. 
 }
