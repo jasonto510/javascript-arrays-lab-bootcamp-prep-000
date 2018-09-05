@@ -5,3 +5,7 @@ function destructivelyAppendKitten(name){
   return kitten;
 }
 
+function destructivelyPrependKitten(name){
+  var kitten = [];
+  kitten.
+}
