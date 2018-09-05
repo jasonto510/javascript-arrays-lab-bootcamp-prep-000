@@ -1,6 +1,6 @@
 // Add your functions and code here
 function destructivelyAppendKitten(name){
-  array = [];
+  var array = [];
   array.push(name);
   return array;
 }
